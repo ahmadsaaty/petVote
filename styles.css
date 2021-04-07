@@ -1,0 +1,38 @@
+body{
+    display:grid;
+    margin: 0;
+    padding:0;
+    align-items: center;
+    justify-content: center;
+}
+
+
+h1{
+    margin: auto;
+    color: blueviolet;
+}
+
+
+.container{
+    display:flex;
+    flex-direction: row;
+
+}
+
+.petImages {
+    
+    margin: 5px;
+    width: 200px;
+    height:200px;
+}
+
+
+
+.hidden{
+    display:none;
+}
+
+.votes{
+    color: crimson;
+    font-size: 2rem;
+}
