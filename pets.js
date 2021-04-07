@@ -4,7 +4,7 @@ button.addEventListener("click", showPics);
 
 let petImages = document.getElementsByClassName("ImageContainer");
 
-let likeButtons = document.getElementsByClassName("like")
+let likeButtons = document.getElementsByClassName("heart")
 
 let pet1Index = document.getElementById("pet1Index")
 let pet2Index = document.getElementById("pet2Index")
