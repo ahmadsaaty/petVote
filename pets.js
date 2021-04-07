@@ -26,10 +26,10 @@ function showPics() {
 
         petImage.classList.remove("hidden")
         likeButton.addEventListener("click", vote);
-        petImage.addEventListener("click", vote);
+        // petImage.addEventListener("click", vote);
     }
 
-
+    button.classList.add('hidden')
 };
 
 
